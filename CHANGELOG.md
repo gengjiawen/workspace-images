@@ -2,6 +2,8 @@
 
 A curated, chronologically ordered list of notable changes in [Gitpod's default workspace images](https://hub.docker.com/u/gitpod).
 
+- Bump llvm to 18, and enable ASAN support.
+
 ## 2024-06-17
 
 - Bump Rust to `1.79.0`
